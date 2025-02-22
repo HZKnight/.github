@@ -1,4 +1,4 @@
-![#HZKnight.Org](https://brend.h0model.org/sites/hzknight/courrent/hzknight_logo%20(1).png) 
+![#HZKnight.Org](https://brend.h0model.org/sites/hzknight/courrent/hzknight_logo.png) 
 
 Lincenses
 -------------------------
